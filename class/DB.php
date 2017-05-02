@@ -5,4 +5,7 @@ class DB {
     {
         echo 'lega';
     }
+    public function conectar(){
+        return 'conectar';
+    }
 }
